@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Part 1: put your name in the brackets [here]
+#Part 1: put your name in the brackets [YOUgnpines]
 # This will let us examine what `git diff` looks like.
 
 # Make sure that we are in a git repository.
